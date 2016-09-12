@@ -94,3 +94,10 @@ a .side-image {
   text-decoration: none !important;
   color: #333;
 }
+
+// for cards in cart module
+
+// a color bg for cart  layout cards
+.cm-store.cm-grid.cm-front .cm-item {
+  background: #fff !important; 
+}
