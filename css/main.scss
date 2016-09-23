@@ -65,3 +65,15 @@ button a {
   color: #fff;
   text-decoration: none;
 }
+// text on cart button icon overlay
+.cm-cartbutton.cm-overlaytrigger:before {
+   content: "Veiw cart!";
+   color: #fff;
+   width: 300px;
+   white-space: nowrap;
+   position: relative;
+   left: -83px;
+   top: 12px;
+   background: #111;
+   padding: 4px;
+ }
